@@ -1,0 +1,21 @@
+body
+
+{
+    background-color: pink;
+}
+p,li
+{
+    color:black;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px
+}
+
+img
+{
+    height: 100px;
+    display: block;
+    margin: auto;
+}
